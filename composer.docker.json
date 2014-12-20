@@ -1,0 +1,16 @@
+{
+	"minimum-stability": "dev",
+	"repositories": [
+		{
+			"type": "composer",
+			"url": "http://packages.firegento.com"
+		},
+		{
+			"type": "vcs",
+			"url": "/git/magento-messenger"
+		}
+	],
+	"extra": {
+		"magento-root-dir": "."
+	}
+}

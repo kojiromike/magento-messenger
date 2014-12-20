@@ -1,0 +1,16 @@
+{
+    "name": "kojiromike/magento-messenger",
+    "description": "For experimenting with how notices and messages show up in Magento 1.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Michael A. Smith",
+            "email": "michael@smith-li.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "type": "magento-module",
+    "require": {
+        "firegento/psr0autoloader": "*"
+    }
+}
